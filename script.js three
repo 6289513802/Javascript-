@@ -1,0 +1,12 @@
+//Take input from user by using prompt email and password 
+  const email = prompt("Enter your email");
+  const password = prompt("Enter your password");
+  
+  //check the email is equal to "abc@gmail.com" and password is equal to "12345678"
+  
+  alert("Hurrah! you are logged in");
+  alert("try again");
+  
+  
+  
+  
