@@ -1,0 +1,26 @@
+
+  let email = prompt("Enter your email");
+  let password = prompt ("Enter your password")
+ //----------------------------------------------–
+ if(email == "abc@gmail.com" && password == "123456"){
+     alert ("sign in successfully !")
+ }else{
+     alert ("wrong email or password !)
+//------------------------------------------------
+ 
+  email  == "abc@gmail.com" && password == "123456"
+   ? alert ("sign in successfully !")
+   : alert ("wrong email or password");
+//-----------------------------------------------
+  switch (email && password){
+      
+      case("abc@gmail.com" & "123456"):
+           alert ("sign in successfully ! ")
+           break ;
+      
+      default : 
+           alert ("wrong email or password ! ")
+      
+      
+      
+  }
